@@ -36,28 +36,12 @@ Grupo de número <b>20</b> formado pelos integrantes mencionados abaixo.
 
 Dentre os arquivos e pastas presentes na raiz do projeto, definem-se:
 
-1. <b>assets</b>: Diretório para armazenamento de arquivos complementares da estrutura do sistema.
+1. <b>assets</b>: Diretório para armazenamento de arquivos complementares da estrutura do projeto.
     - Diretório "images": Diretório para armazenamento de imagens.
 
-2. <b>config</b>: Diretório para armazenamento de arquivos em formato <i>json</i> contendo configurações.
-    - Arquivo "db.json": Configurações destinadadas à conexão com banco de dados.
-    - Arquivo "params.json": Configurações do sistema em geral.
+2. <b>document</b>: Diretório para armazenamento de documentos relacionados ao projeto.
 
-3. <b>document</b>: Diretório para armazenamento de documentos relacionados ao sistema.
-
-4. <b>scripts</b>: Diretório para armazenamento de scripts.
-    - Diretório "oracle": Diretório para armazenamento de scripts do banco de dados Oracle.
-
-5. <b>src</b>: Diretório para armazenamento de código fonte do sistema em Python.
-    - Diretório "custom": Diretório para armazenamento <i>classes/componentes</i> auxiliares do sistema.
-    - Diretório "models": Diretório para armazenamento <i>classes/componentes</i> relacionados ao banco de dados.
-    - Diretório "prompt": Diretório para armazenamento arquivos de inicialização do sistema em formato <i>prompt</i>.
-
-6. <b>README.md</b>: Documentação do sistema em formato markdown.
-
-## 🔧 Como executar o código
-
-<i>[Preenchimento]: Explicação sobre como executar o sistema, script, visualizar arquivos, etc.</i>
+3. <b>README.md</b>: Documentação do projeto em formato markdown.
 
 ## 🗃 Histórico de lançamentos
 
